@@ -34,41 +34,41 @@ The project combines relational database design, SQL queries, user interface dev
 
 ### Application interface
 
-![Main menu](screenshots/01-main-menu.png)
+![Main menu](screenshots/01-main-menu.jpg)
 
 *Main menu for staff and customer workflows.*
 
-![Sales order form](screenshots/02-sales-order-form.png)
+![Sales order form](screenshots/02-sales-order-form.jpg)
 
 *Sales form with medicine search, quantity, prescription number, shopping cart, and order controls.*
 
 ### Database design
 
-![Database relationships](screenshots/08-database-relationships.png)
+![Database relationships](screenshots/08-database-relationships.jpg)
 
 *Relationships between the main database tables.*
 
 ### Business process modelling
 
-![IDEF0 A-0 diagram](screenshots/06-idef0-a0-process-diagram.png)
+![IDEF0 A-0 diagram](screenshots/06-idef0-a0-process-diagram.jpg)
 
 *IDEF0 process model for the pharmacy workflow.*
 
-![IDEF0 context diagram](screenshots/07-idef0-context-diagram.png)
+![IDEF0 context diagram](screenshots/07-idef0-context-diagram.jpg)
 
 *Context-level IDEF0 diagram.*
 
 ### SQL and reporting
 
-![Prescription sales SQL query](screenshots/03-prescription-sales-query.png)
+![Prescription sales SQL query](screenshots/03-prescription-sales-query.jpg)
 
 *SQL query for analysing sales of prescription medicines.*
 
-![Query results](screenshots/04-prescription-sales-query-results.png)
+![Query results](screenshots/04-prescription-sales-query-results.jpg)
 
 *Example query results.*
 
-![Sales report](screenshots/05-sales-report.png)
+![Sales report](screenshots/05-sales-report.jpg)
 
 *Sales report with item details and totals.*
 

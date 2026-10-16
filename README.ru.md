@@ -34,41 +34,41 @@
 
 ### Интерфейс приложения
 
-![Главное меню](screenshots/01-main-menu.png)
+![Главное меню](screenshots/01-main-menu.jpg)
 
 *Главное меню для перехода к сценариям сотрудников и покупателей.*
 
-![Форма оформления заказа](screenshots/02-sales-order-form.png)
+![Форма оформления заказа](screenshots/02-sales-order-form.jpg)
 
 *Форма продажи с поиском препарата, количеством, номером рецепта, корзиной и элементами управления заказом.*
 
 ### Проектирование базы данных
 
-![Связи таблиц](screenshots/08-database-relationships.png)
+![Связи таблиц](screenshots/08-database-relationships.jpg)
 
 *Связи между основными таблицами базы данных.*
 
 ### Моделирование бизнес-процессов
 
-![Диаграмма IDEF0 A-0](screenshots/06-idef0-a0-process-diagram.png)
+![Диаграмма IDEF0 A-0](screenshots/06-idef0-a0-process-diagram.jpg)
 
 *Модель процесса работы аптеки в нотации IDEF0.*
 
-![Контекстная диаграмма IDEF0](screenshots/07-idef0-context-diagram.png)
+![Контекстная диаграмма IDEF0](screenshots/07-idef0-context-diagram.jpg)
 
 *Контекстная диаграмма IDEF0.*
 
 ### SQL и отчётность
 
-![SQL-запрос](screenshots/03-prescription-sales-query.png)
+![SQL-запрос](screenshots/03-prescription-sales-query.jpg)
 
 *SQL-запрос для анализа продаж рецептурных препаратов.*
 
-![Результат запроса](screenshots/04-prescription-sales-query-results.png)
+![Результат запроса](screenshots/04-prescription-sales-query-results.jpg)
 
 *Пример результата выполнения запроса.*
 
-![Отчёт по продажам](screenshots/05-sales-report.png)
+![Отчёт по продажам](screenshots/05-sales-report.jpg)
 
 *Отчёт по продажам с позициями и итоговыми суммами.*
 
